@@ -1,9 +1,13 @@
 CrackerBarrellPuzzle-CSCE420PA1
 ===============================
 Programming Assignment #1 - Cracker Barrel Game Solver
+
 Patrick Sheehan
+
 CSCE 420
+
 22 January 2014
+
 Sources: haskell.org, stackoverflow.com, piazza,
          http://www.danobrien.ws/PegBoard.html
          
